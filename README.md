@@ -1,2 +1,2 @@
 # tiny_json
-  A tinyjson Library,Imitate the json11 library.
+  模仿的Json11这个开源库写的（几乎是抄的），算是练手的一个项目
